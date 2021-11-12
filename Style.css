@@ -6,6 +6,13 @@ body {
     font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
     background: linear-gradient(white, #D3D8E8);
 }
+.logo{
+    color: white;
+    text-align: left;
+    margin-left: 10rem;
+    margin-top: auto;
+    font-size: 60px;
+}
 
 #header_wrapper {
     width: 100%;
